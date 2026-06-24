@@ -8,7 +8,7 @@
 
 ### Cab Search Module
 
-![Cab Search](screenshots/cab-search.png)
+![Cab Search](screenshots/cab-search.png)  
 
 ### Vehicle Selection Module
 
